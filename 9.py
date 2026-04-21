@@ -1,4 +1,4 @@
-def diction(strr):
+def ASDF(strr):
     freq = {}
     for i in strr.split():
         ch = i[0]
